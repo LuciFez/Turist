@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Smart Turist</string>
+
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="register">Register</string>
+    <string name="password">Password</string>
+    <string name="confirmPassword">Confirm Password</string>
+    <string name="back">Back</string>
+
+    <string name="destination">Destination</string>
+    <string name="distance">Distance</string>
+    <string name="km">km</string>
+    <string name="family">Family Friendly</string>
+    <string name="search">Search</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="title_activity_tab_control">TabControlActivity</string>
+    <string name="hotel">ATM</string>
+    <string name="park">Park</string>
+    <string name="museum">Museum</string>
+    <string name="restaurant">Restaurant</string>
+
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_maps_test1">Map</string>
+    <string name="title_activity_maps_test2">Map</string>
+
+    <string name="sms">SMS</string>
+    <string name="details">Details</string>
+
+</resources>
